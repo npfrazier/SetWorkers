@@ -1,0 +1,7 @@
+name = "SetWorkers"
+uuid = "d821de18-4f34-11e9-331b-71d05fdbeaa4"
+authors = ["Nick Frazier <nfrazier@fdic.gov>"]
+version = "0.1.0"
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
